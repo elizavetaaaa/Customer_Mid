@@ -6,7 +6,7 @@ Having some problems with adding data...
   
   First page is login page
   
-![login(https://i.imgur.com/LqxvKX7.png);
+![login](https://i.imgur.com/LqxvKX7.png);
 
 Error si generating in case of not right login or password
 ![login error](https://i.imgur.com/nA2KRdR.png);
