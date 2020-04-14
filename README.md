@@ -8,7 +8,7 @@ Having some problems with adding data...
   
 ![login](https://i.imgur.com/LqxvKX7.png);
 
-Error si generating in case of not right login or password
+Error is generating in case of not right login or password
 ![login error](https://i.imgur.com/nA2KRdR.png);
 
 in case os success user see the welcome page with a link to see customers' page
